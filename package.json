@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "ex": "^0.1.4",
-    "socket.io": "^4.6.0"
-  }
-}
